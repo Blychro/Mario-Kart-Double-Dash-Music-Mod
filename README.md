@@ -4,4 +4,4 @@ Replaces all of Mario Kart Double Dash music with Rainbow Road except for Rainbo
 I do not own the game nor do I own any of the music. All rights go to Nintendo.
 
 Use the arc extractor and arc pack programs to deconstruct and reconstruct the Double Dash .iso respectively.
-After deconstructing the .iso, replace the res file in root folder with the one provided and reconstruct the iso.  From there it should run with the modded music.
+After deconstructing the .iso, replace the AudioRes file in root folder with the one provided and reconstruct the iso.  From there it should run with the modded music.
